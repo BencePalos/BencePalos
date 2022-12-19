@@ -1,4 +1,6 @@
-### Hi there 👋
+# Bence Pálos 👋
+**`Digital Creative (Developer/Photographer)`**
+
 
 <!--
 **BencePalos/BencePalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
