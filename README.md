@@ -1,6 +1,6 @@
 # Bence Pálos 
-💻💡⌨️📷☕
-**`Digital Creative (Developer/Photographer)`**
+
+**`Digital Creative (Developer/Photographer)`**💻💡⌨️📷☕
 
 
 <!--
