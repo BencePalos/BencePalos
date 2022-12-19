@@ -3,7 +3,9 @@
 **`Digital Creative (Developer/Photographer)`** 💻💡📷☕
 
 I'm the most enthusiastic and driven developer student you'll meet this year! (Yeah I gave that award to myself 🤫) <br />
-Currently studying at Green Fox Academy <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://avatars.githubusercontent.com/u/14247612?s=200&v=4" />
+Currently studying at Green Fox Academy. <br />
+Working on a project that makes restaurant reeservations easier than ever! Both from the client and the management style. This project is being built with a Spring back-end and a React front-end.  
+
 
 ### 🧰 Languages and Tools
 
