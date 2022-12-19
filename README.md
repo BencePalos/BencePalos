@@ -1,4 +1,4 @@
-# Bence Pálos 👋
+# :computer: Bence Pálos 
 **`Digital Creative (Developer/Photographer)`**
 
 
