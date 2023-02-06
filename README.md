@@ -2,7 +2,7 @@
 
 **`Digital Creative (Developer/Photographer)`** 💻💡📷☕
 
-#### Just a really enthusiastic and driven developer! <br />
+#### Just a really enthusiastic and driven developer student! <br />
 Currently studying at Green Fox Academy. <br />
 Working on a project that makes restaurant reservations easier than ever! Both from the client and the management side. This project is being built with a Spring back-end and a React front-end.  
 
