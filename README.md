@@ -2,9 +2,9 @@
 
 **`Digital Creative (Developer/Photographer)`** 💻💡📷☕
 
-#### Just a really enthusiastic and driven developer student! <br />
-Currently studying at Green Fox Academy. <br />
-Working on a project that makes restaurant reservations easier than ever! Both from the client and the management side. This project is being built with a Spring back-end and a React front-end.  
+#### Just a really enthusiastic and driven junior developer! <br />
+Graduated from Green Fox Academy. <br />
+Currently working on a project which auto generates SQL queries for the user's project. I'm making this in React using Vite, and a simple back-end in express.
 
 
 ### 🧰 Languages and Tools
