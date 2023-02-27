@@ -26,7 +26,7 @@ Currently working on a project which auto generates SQL queries for the user's p
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <br />
-
+<br />
 ## Reach out!
 LinkedIn: https://www.linkedin.com/in/bencepalos/
 
