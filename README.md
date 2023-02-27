@@ -32,10 +32,10 @@ LinkedIn: https://www.linkedin.com/in/bencepalos/
 
 Email: palos.bence94@gmail.com
 
-## &rarr; [Coding projects](https://github.com/BencePalos?tab=repositories)
-FoxDining(GFA group project): https://github.com/green-fox-academy/dusicyon-malachite-react-foxdining  <br />
-SeeQlize: https://github.com/BencePalos/SeeQlize  <br />
 <!--
+## &rarr; [Coding projects](https://github.com/BencePalos?tab=repositories)
+SeeQlize: https://github.com/BencePalos/SeeQlize  <br />
+
 **BencePalos/BencePalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
