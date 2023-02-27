@@ -27,6 +27,14 @@ Currently working on a project which auto generates SQL queries for the user's p
 <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
 <br />
 
+## Reach out!
+LinkedIn: https://www.linkedin.com/in/bencepalos/
+
+Email: palos.bence94@gmail.com
+
+## &rarr; [Coding projects](https://github.com/BencePalos?tab=repositories)
+FoxDining(GFA group project): https://github.com/green-fox-academy/dusicyon-malachite-react-foxdining
+SeeQlize: https://github.com/BencePalos/SeeQlize
 <!--
 **BencePalos/BencePalos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
