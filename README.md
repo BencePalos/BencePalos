@@ -1,6 +1,6 @@
 # Bence Pálos 
 
-**`Digital Creative (Developer/Photographer)`** 💻💡📷☕
+**`Junior FullStack Developer`** 💻💡📷☕
 
 #### Just a really enthusiastic and driven junior developer! <br />
 Graduated from Green Fox Academy. <br />
