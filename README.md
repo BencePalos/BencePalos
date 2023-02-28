@@ -5,7 +5,7 @@
 #### Just a really enthusiastic and driven junior developer! <br />
 Graduated from Green Fox Academy. <br />
 Currently working on a project which auto generates SQL queries for the user's project. I'm making this in React using Vite, and a simple back-end in express.
-
+SeeQlize: https://github.com/BencePalos/SeeQlize
 
 ### 🧰 Languages and Tools
 
