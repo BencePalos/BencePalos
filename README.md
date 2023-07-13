@@ -1,11 +1,10 @@
 # Bence Pálos 
 
-**`Junior FullStack Developer`** 💻💡📷☕
+**`FullStack Developer`** 💻💡📷☕
 
-#### Just a really enthusiastic and driven junior developer! <br />
+#### Just a really enthusiastic and driven developer! <br />
 Graduated from Green Fox Academy. <br />
-Currently working on a project which can generate SQL queries or help writing them for the user's projects. I'm making this in React using Vite on the frontend, and Java Spring Boot on the backend. <br />
-SeeQlize: https://github.com/BencePalos/SeeQlize
+Currently widening my knowledge working at Codingo.
 
 ### 🧰 Languages and Tools
 
@@ -15,6 +14,7 @@ SeeQlize: https://github.com/BencePalos/SeeQlize
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img align="left" alt="MongoDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="Photoshop" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
